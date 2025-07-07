@@ -23,5 +23,5 @@ A Java-based web application built with [Spring Boot](https://spring.io/projects
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-spring-boot-project.git
-cd your-spring-boot-project
+git clone https://github.com/bscoutinho/bookstore-backend.git
+cd bookstore-backend
